@@ -9,5 +9,5 @@ Aula 01.
 
 // Consoles.
 console.log("Hello World!");
-console.log("Essa e uma mensagem do console");
+console.log("Essa e uma mensagem do console");  
 
