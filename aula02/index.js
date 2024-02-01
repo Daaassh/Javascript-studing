@@ -13,7 +13,7 @@ console.log(`Nome: ${name}`);
 
 // Imprimindo a variavel errada.
 // O console vai dar erro
-console.log(`Nome: ${nametwo}`);
+console.log(`Nome: ${nametwo}`); 
 
 // Imprimindo uma string
 console.log("Hello World");
