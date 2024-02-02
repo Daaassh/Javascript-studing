@@ -3,7 +3,7 @@
   Revisão
 */
 
-// Criando as variáveis
+// Criando as variáveis 
 let n1 = 1
 let n2 = '1'
 
